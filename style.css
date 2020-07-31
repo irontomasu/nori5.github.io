@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color: black;
+    background-color:   green;
+    color: white;
 }
 
 :root {
@@ -105,20 +105,20 @@ body{
 
 .font-drop-shadow-large {
     text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25),
-     -4px -4px 4px #fff;
+     -4px -4px 4px green;
 }
 
 .font-drop-shadow-midium {
     text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.25),
-     -3px -3px 3px #fff;
+     -3px -3px 3px green;
 }
 
 .font-drop-shadow-smarll {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25),
-     -2px -2px 2px #fff;
+     -2px -2px 2px green;
 }
 
 .card-drop-shadow {
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25),
-    -4px -4px 4px #fff;
+    -4px -4px 4px green;
 }
